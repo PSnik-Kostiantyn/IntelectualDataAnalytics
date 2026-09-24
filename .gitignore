@@ -1,0 +1,10 @@
+.venv/
+
+# архів із завданнями і даними варіантів
+students/
+__MACOSX/
+*.zip
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
